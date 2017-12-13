@@ -2,27 +2,10 @@
 <ModulePrefs title="Instagram" directory_title="Instagrid" author="Heybi" height="150" author_email="biyanpasau@gmail.com" scrolling="false" thumbnail="http://2.bp.blogspot.com/-lKz014ESBU8/VTb5dUZcnMI/AAAAAAAADgw/n_OTrNSvvKs/s1600/instagram.png" description="A gadget that displays your Instagram photos.">
 <Require feature="dynamic-height"/>
 </ModulePrefs>
-<UserPref name="instagramid" display_name="UserID" default_value="" datatype="string"/>
-<UserPref name="instagramtoken" display_name="Token" default_value="" datatype="string"/>
-<UserPref name="mychoice" display_name="Show Photo?" datatype="bool" default_value="true"/>
-<UserPref name="displayupto" display_name="Display up to" default_value="4" datatype="enum">
-<EnumValue value="1"/>
-<EnumValue value="2"/>
-<EnumValue value="3"/>
-<EnumValue value="4"/>
-<EnumValue value="5"/>
-<EnumValue value="6"/>
-<EnumValue value="7"/>
-<EnumValue value="8"/>
-<EnumValue value="9"/>
-<EnumValue value="10"/>
-<EnumValue value="11"/>
-<EnumValue value="12"/>
-<EnumValue value="13"/>
-<EnumValue value="14"/>
-<EnumValue value="15"/>
-</UserPref>
-<UserPref name="itemperrow" display_name="Item per row" default_value="2" datatype="enum">
+<UserPref name="instagramid" display_name="Type 1" default_value="" datatype="string"/>
+<UserPref name="instagramtoken" display_name="Type 2" default_value="" datatype="string"/>
+<UserPref name="mychoice" display_name="Type 3" datatype="bool" default_value="true"/>
+<UserPref name="displayupto" display_name="Type 4" default_value="4" datatype="enum">
 <EnumValue value="1"/>
 <EnumValue value="2"/>
 <EnumValue value="3"/>
