@@ -1,10 +1,10 @@
 <Module>
 <ModulePrefs title="Name Widget" directory_title="Abdelnaem" author="Abdelnaem" height="200" author_email="abdelnaematia@gmail.com" scrolling="false" description="this description for test">
 </ModulePrefs>
-<UserPref name="instagramid" display_name="Type 1" default_value="" datatype="string"/>
-<UserPref name="instagramtoken" display_name="Type 2" default_value="" datatype="string"/>
-<UserPref name="mychoice" display_name="Type 3" datatype="bool" default_value="true"/>
-<UserPref name="displayupto" display_name="Type 4" default_value="4" datatype="enum">
+<UserPref name="test1" display_name="Type 1" default_value="" datatype="string"/>
+<UserPref name="test2" display_name="Type 2" default_value="" datatype="string"/>
+<UserPref name="test3" display_name="Type 3" datatype="bool" default_value="true"/>
+<UserPref name="test4" display_name="Type 4" default_value="4" datatype="enum">
 <EnumValue value="1"/>
 <EnumValue value="2"/>
 <EnumValue value="3"/>
@@ -13,7 +13,6 @@
 </UserPref>
 <Content type="html">
 <![CDATA[
-
 ]]>
 </Content>
 </Module>
