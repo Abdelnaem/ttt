@@ -4,6 +4,7 @@
 </ModulePrefs>
 <UserPref name="instagramid" display_name="UserID" default_value="" datatype="string"/>
 <UserPref name="instagramtoken" display_name="Token" default_value="" datatype="string"/>
+<UserPref name="mychoice" display_name="Show Photo?" datatype="bool" default_value="true"/>
 <UserPref name="displayupto" display_name="Display up to" default_value="4" datatype="enum">
 <EnumValue value="1"/>
 <EnumValue value="2"/>
